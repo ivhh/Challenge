@@ -1,0 +1,5 @@
+.databricks
+farmers*.json
+*.pyc
+.env
+__pycache__
